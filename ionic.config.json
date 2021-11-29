@@ -1,0 +1,7 @@
+{
+  "name": "RecipesApp",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
